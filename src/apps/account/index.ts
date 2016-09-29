@@ -1,10 +1,6 @@
-import 'reflect-metadata';
-import 'zone.js/dist/zone';
-import 'rxjs/Rx'
-import {bootstrap} from '@angular/platform-browser-dynamic';
+import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
+import { enableProdMode } from '@angular/core';
+import { AppModule } from './app.module';
 
-//引用上一步创建的app.ts
-import {AppComponent} from './app';
-
-//启动程序
-bootstrap(AppComponent);
+enableProdMode();
+platformBrowserDynamic().bootstrapModule(AppModule);

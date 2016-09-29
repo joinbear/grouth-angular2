@@ -562,3 +562,51 @@ Error: Not Found
     at Layer.handle [as handle_request] (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/layer.js:95:5)
     at trim_prefix (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:312:13)
     at /Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:280:7
+[Wed Sep 14 2016 09:36:08 GMT+0800 (CST)] /favicon.ico
+Error: Not Found
+    at /Users/qiaoni/HomeLink/angular/server/config/error.js:23:16
+    at Layer.handle [as handle_request] (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:312:13)
+    at /Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:271:10)
+    at /Users/qiaoni/HomeLink/angular/server/config/filter.js:23:5
+    at Layer.handle [as handle_request] (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:312:13)
+    at /Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:280:7
+[Wed Sep 14 2016 09:36:40 GMT+0800 (CST)] /favicon.ico
+Error: Not Found
+    at /Users/qiaoni/HomeLink/angular/server/config/error.js:23:16
+    at Layer.handle [as handle_request] (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:312:13)
+    at /Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:271:10)
+    at /Users/qiaoni/HomeLink/angular/server/config/filter.js:23:5
+    at Layer.handle [as handle_request] (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:312:13)
+    at /Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:280:7
+[Fri Sep 16 2016 09:23:27 GMT+0800 (CST)] /favicon.ico
+Error: Not Found
+    at /Users/qiaoni/HomeLink/angular/server/config/error.js:23:16
+    at Layer.handle [as handle_request] (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:312:13)
+    at /Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:271:10)
+    at /Users/qiaoni/HomeLink/angular/server/config/filter.js:23:5
+    at Layer.handle [as handle_request] (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:312:13)
+    at /Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:280:7
+[Thu Sep 29 2016 13:28:16 GMT+0800 (CST)] /favicon.ico
+Error: Not Found
+    at /Users/qiaoni/HomeLink/angular/server/config/error.js:23:16
+    at Layer.handle [as handle_request] (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:312:13)
+    at /Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:330:12)
+    at next (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:271:10)
+    at /Users/qiaoni/HomeLink/angular/server/config/filter.js:23:5
+    at Layer.handle [as handle_request] (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:312:13)
+    at /Users/qiaoni/HomeLink/angular/node_modules/express/lib/router/index.js:280:7
